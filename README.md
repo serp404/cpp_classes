@@ -1,4 +1,4 @@
-# cpp_classes
+# Cpp_classes
 Realizations of some interesting C++ classes
 
 - In complex.cpp there is a realization of complex numbers on C++
