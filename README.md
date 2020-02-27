@@ -1,5 +1,5 @@
 # Cpp_classes
-Realizations of some interesting C++ classes
+Implementations of some interesting C++ classes
 
 - In complex.cpp there is a realization of complex numbers on C++
 - In rational.cpp there is a realization of rational numbers on C++
